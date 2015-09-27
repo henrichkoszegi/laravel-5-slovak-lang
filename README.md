@@ -1,2 +1,6 @@
-# laravel-slovak-validation
-Validácia formulárových prvkov v slovenskom jazyku pre Laravel 5.x
+# Slovenská lokalizácia pre Laravel 5.x
+
+Obsahuje nasledovné súbory lokalizované v slovenskom jazyku:
+- pagination.php
+- passwords.php
+- validation.php
